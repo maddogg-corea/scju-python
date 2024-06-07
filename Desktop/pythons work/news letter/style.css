@@ -1,0 +1,72 @@
+html {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+label {
+  display: block;
+  margin: 16px 0 8px;
+  font-size: 16px;
+}
+
+input {
+  display: block;
+  padding: 16px 24px;
+  width: 100%;
+  color: #ababab;
+  margin: 8px 0 8px;
+  border: 1px solid #d1d1d1;
+  font-size: 16px;
+  line-height: 24px;
+
+
+}
+
+button {
+  border: none;
+  display: block;
+  padding: 16px;
+  width: 100%;
+  color: #ffffff;
+  background-color: #2c2c2c;
+  margin: 24px 0px 24px;
+
+}
+.login {
+  margin: 120px auto;
+  width: 360px;
+  
+}
+.login_title{
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  margin: 24px;
+  color: #4e4e4e;
+
+}
+.login-forgot-link{
+  font-size: 14px;
+  color: #ababab;
+  
+
+
+}
+.login-forgot{
+  text-align: right;
+
+}
+.login-signup{
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  color:#ababab
+}
+.signup{
+  color:#2c2c2c;
+}
+
+*{
+  box-sizing: border-box;
+}

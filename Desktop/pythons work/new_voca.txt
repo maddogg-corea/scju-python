@@ -1,0 +1,1 @@
+"/Users/leedongkyu/Desktop/pythons work/.venv/bin/python" "/Users/leedongkyu/Desktop/pythons work/scratch.py":qcat:고양이:q
